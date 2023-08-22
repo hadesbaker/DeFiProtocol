@@ -2,7 +2,7 @@ DeFiProtocol
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-My DeFiProtocol is a simplified DeFi lending pool implemented in Solidity and Python using the Brownie development framework. It allows users to deposit tokens into the lending pool and borrow tokens from it.
+DeFiProtocol is a simplified DeFi lending pool implemented in Solidity and Python using the Brownie development framework. It allows users to deposit tokens into the lending pool and borrow tokens from it.
 
 ## Table of Contents
 
